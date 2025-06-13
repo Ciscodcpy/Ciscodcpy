@@ -3,10 +3,11 @@
 
   Some things I've worked on or am building:
   -------------------------------------------
-- 🎮 Custom VRChat UI mods and bots and other cheats for games       
-- 🤖 AI VTuber project featuring Miloa (cute + gothic theme)
+- 🎮 Custom Game UI mods and bots and other cheats        
+- 🤖 AI VTuber project featuring Miloa 
 - 🌐 Stylish websites with user profiles, themes, and animations
 - 📡 Network packet sniffer with console logs and TCP extensions
+- 🎮 Latina Radar device 
   
 
 Some other stuff
