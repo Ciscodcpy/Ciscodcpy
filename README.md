@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/d3229c6f-94cb-48e5-8325-fc8ad5f08537)<h3 align="center">A passionate frontend developer from Californa</h3>
-<img src="https://i.pinimg.com/originals/b9/d0/cf/b9d0cf2715c4f404b7991bc9d7488f09.jpg" width="300" height="300"/> 
+<h3 align="center">A passionate frontend developer from Californa</h3>
+![image](https://github.com/user-attachments/assets/d3229c6f-94cb-48e5-8325-fc8ad5f08537)
+
   Some things I've worked on or am building:
 - 🎮 Custom VRChat UI mods and bots and other cheats for games       
 - 🤖 AI VTuber project featuring Miloa (cute + gothic theme)
