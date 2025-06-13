@@ -1,7 +1,7 @@
 <h3 align="center">A passionate frontend developer from Californa</h3>
-
+<img src="https://i.pinimg.com/originals/b9/d0/cf/b9d0cf2715c4f404b7991bc9d7488f09.jpg" width="300" height="300"/> </a> 
 Some things I've worked on or am building:
-- 🎮 Custom VRChat UI mods and bots and other cheats for games       <img src="https://i.pinimg.com/originals/b9/d0/cf/b9d0cf2715c4f404b7991bc9d7488f09.jpg" width="300" height="300"/> </a> 
+- 🎮 Custom VRChat UI mods and bots and other cheats for games       
 - 🤖 AI VTuber project featuring Miloa (cute + gothic theme)
 - 🌐 Stylish websites with user profiles, themes, and animations
 - 📡 Network packet sniffer with console logs and TCP extensions
