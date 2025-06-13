@@ -3,7 +3,7 @@
 <h3 align="center">IM GONNA BLOW UP MY COMPUTER</h3>
 
   <P align="center">Some things I've worked on or am building:</P>
-  <P align="center">-------------------------------------------</P>
+  <P align="center">-----------------------------------------------------------------</P>
 <P align="center">- 🎮 Custom Game UI mods and bots and other cheats  </P>      
 <P align="center">- 🤖 AI VTuber project featuring Miloa </P>
 <P align="center">- 🌐 Stylish websites with user profiles, themes, and animations</P>
@@ -13,7 +13,7 @@
   
 
 <P align="center">Some other stuff</P>
-<P align="center">---------------------------------------------</P>
+<P align="center">-----------------------------------------------------------------</P>
 <P align="center">  - **Languages:** JavaScript / Node.js, C#, Python, HTML/CSS, Lua</P>
 <P align="center">- **Tools:** Unity, Git, VS Code, Blender, VTube Studio, OBS</P>
 <P align="center">- **Interests:** Game Development, AI/VTubers, Modding, Creative UI/UX, Networking</P>
