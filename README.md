@@ -12,11 +12,11 @@
 
   
 
-Some other stuff
----------------------------------------------
-  - **Languages:** JavaScript / Node.js, C#, Python, HTML/CSS, Lua
-- **Tools:** Unity, Git, VS Code, Blender, VTube Studio, OBS
-- **Interests:** Game Development, AI/VTubers, Modding, Creative UI/UX, Networking
+<P align="center">Some other stuff</P>
+<P align="center">---------------------------------------------</P>
+<P align="center">  - **Languages:** JavaScript / Node.js, C#, Python, HTML/CSS, Lua</P>
+<P align="center">- **Tools:** Unity, Git, VS Code, Blender, VTube Studio, OBS</P>
+<P align="center">- **Interests:** Game Development, AI/VTubers, Modding, Creative UI/UX, Networking</P>
 
 
                                 
