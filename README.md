@@ -1,21 +1,21 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Californa</h3>
 
 Some things I've worked on or am building:
-- 🎮 Custom VRChat UI mods and bots
+- 🎮 Custom VRChat UI mods and bots and other cheats for games
 - 🤖 AI VTuber project featuring Miloa (cute + gothic theme)
 - 🌐 Stylish websites with user profiles, themes, and animations
-- 📡 Network packet simulator with console logs and TCP extensions
+- 📡 Network packet sniffer with console logs and TCP extensions
 
   - **Languages:** JavaScript / Node.js, C#, Python, HTML/CSS, Lua
 - **Tools:** Unity, Git, VS Code, Blender, VTube Studio, OBS
-- **Interests:** Game Development, AI/VTubers, Modding, Creative UI/UX, Networking Simulations
+- **Interests:** Game Development, AI/VTubers, Modding, Creative UI/UX, Networking
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="https://dragon-0609.github.io/Yuki-Theme/guide/summary" alt="aws" width="80" height="80"/> </a> 
+<img src="https://i.pinimg.com/originals/b9/d0/cf/b9d0cf2715c4f404b7991bc9d7488f09.jpg" width="80" height="80"/> </a> 
 
                                               
 <h3 align="left">Languages and Tools:</h3>
