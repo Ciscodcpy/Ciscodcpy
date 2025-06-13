@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Californa</h3> <img src="https://i0.wp.com/64.media.tumblr.com/4e8672fa3b1c56bab960c0d23da87bf4/a43de2612436b61a-fd/s540x810/92883b6b45ad3f1e404ea70bd58d5f829f4b7582.gifv" align="right" width="250" height="250"/> 
 <img src="https://i0.wp.com/64.media.tumblr.com/4e8672fa3b1c56bab960c0d23da87bf4/a43de2612436b61a-fd/s540x810/92883b6b45ad3f1e404ea70bd58d5f829f4b7582.gifv"  width="250" height="250"/>
-<h3 align="center">IM GONNA BLOW UP MY COMPUTER</h3>
+<h3 align="center">Studying Computer Engineering </h3>
 
   <P align="center">Some things I've worked on or am building:</P>
   <P align="center">-----------------------------------------------------------------</P>
